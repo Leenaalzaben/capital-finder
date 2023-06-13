@@ -1,5 +1,13 @@
 # Lab: Class 16 || capital-finder
 
-[Capital Finder I](https://capital-finder-ecgdwsokw-leenaalzaben.vercel.app/api/capital-finder?country=cyprus) <br>
+## Try Tests
 
-[Capital Finder II](https://capital-finder-ecgdwsokw-leenaalzaben.vercel.app/api/capital-finder?capital=Doha)
+[The capital of cyprus](https://capital-finder-ecgdwsokw-leenaalzaben.vercel.app/api/capital-finder?country=cyprus) <br>
+[The capital of Japan](https://capital-finder-ecgdwsokw-leenaalzaben.vercel.app/api/capital-finder?country=Japan)
+
+[Doha is the capital of ](https://capital-finder-ecgdwsokw-leenaalzaben.vercel.app/api/capital-finder?capital=Doha)<br>
+[Athens is the capital of ](https://capital-finder-ecgdwsokw-leenaalzaben.vercel.app/api/capital-finder?capital=athens)
+
+[The Capital Finder](https://capital-finder-ecgdwsokw-leenaalzaben.vercel.app/api/capital-finder)
+
+[The Code](../serverless-functions/api/capital-finder.py)
